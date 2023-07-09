@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_icon_width">160dp</dimen>
+    <dimen name="splash_icon_height">160dp</dimen>
+
+    <!-- 72dp -->
+    <dimen name="menu_icon_width">36dp</dimen>
+    <dimen name="menu_icon_height">36dp</dimen>
+</resources>
