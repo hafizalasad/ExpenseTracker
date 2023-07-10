@@ -34,7 +34,6 @@ public class MainActivity extends BaseActionBarActivity {
 
     @Override
     protected void initViewReference() {
-        super.initViewReference();
 
         ipAddressTextView = findViewById(R.id.tv_ip_address);
         cityTextView = findViewById(R.id.tv_city);
@@ -43,7 +42,6 @@ public class MainActivity extends BaseActionBarActivity {
 
     @Override
     protected void initRequest() {
-        super.initRequest();
 
         showMyIpApiCall();
     }
