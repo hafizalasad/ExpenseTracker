@@ -22,4 +22,8 @@
     <color name="colorOnSurface">#212121</color>
     <color name="colorAppLogo">#a8329b</color>
 
+
+    <!-- Other Colors -->
+    <color name="colorWhite">#FFFFFF</color>
+
 </resources>
