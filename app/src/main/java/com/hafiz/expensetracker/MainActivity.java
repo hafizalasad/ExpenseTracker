@@ -75,7 +75,6 @@ public class MainActivity extends BaseActionBarActivity {
             @Override
             public void onFailure(@NonNull Call<MyIpDetailsResponse> call, @NonNull Throwable t) {
 
-                //network call failed due to disconnect internet connection or server error
                 ipAddressTextView.setText(t.getMessage());
                 cityTextView.setText("");
                 countryTextView.setText("");
